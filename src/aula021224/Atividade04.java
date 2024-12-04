@@ -1,11 +1,10 @@
-package introducao;
+package aula021224;
 
 import java.util.Scanner;
 
 public class Atividade04 {
 
 	public static void main(String[] args) {
-		
 		//variaveis
 		float n1;
 		float n2;
@@ -27,15 +26,10 @@ public class Atividade04 {
 		
 		//processamento 
 		diferenca = (n1 * n2) - (n3 * n4);
-		 
 		//saida
-		
 		System.out.printf("Diferença:  %.1f", diferenca);
-		
-		
-		
-		
 
+		leia.close();
 	}
 
 }

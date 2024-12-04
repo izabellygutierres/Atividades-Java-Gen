@@ -1,4 +1,4 @@
-package introducao;
+package aula021224;
 
 import java.util.Scanner;
 
@@ -33,6 +33,7 @@ public class Atividade02 {
 		//saida do resultado - media
 		System.out.printf("Media das notas: %.1f", media);	
 		
+		leia.close();
 	}
 
 }

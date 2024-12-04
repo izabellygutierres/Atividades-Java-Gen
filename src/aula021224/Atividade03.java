@@ -1,4 +1,4 @@
-package introducao;
+package aula021224;
 
 import java.util.Scanner;
 
@@ -34,6 +34,8 @@ public class Atividade03 {
 		
 		//saida
 		System.out.printf("Salario liquido disponivel: R$ %.1f", salarioLiq);
+		
+		leia.close();
 		
 	}
 

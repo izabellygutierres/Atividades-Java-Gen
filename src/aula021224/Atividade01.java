@@ -1,4 +1,4 @@
-package introducao;
+package aula021224;
 
 import java.util.Scanner;
 
@@ -25,7 +25,7 @@ public class Atividade01 {
 		
 		//Saísa de Dados
 				System.out.println("Novo Salário: R$" + nvsalario);		
-		
-	}
+	leia.close();	
+	}	
 
 }
