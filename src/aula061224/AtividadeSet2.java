@@ -20,10 +20,10 @@ public class AtividadeSet2 {
         numeros.add(8);
         numeros.add(9);
 
-        // Cria um objeto Scanner para ler a entrada do usuário
+        // ler a entrada do usuário
         Scanner leia = new Scanner(System.in);
 
-        // Solicita o número ao usuário
+        // Numero digitado pelo usuario para se encontrado
         System.out.print("Digite o número que você deseja encontrar: ");
         int numeroBuscado = leia.nextInt();
 
